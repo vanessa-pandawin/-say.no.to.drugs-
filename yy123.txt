@@ -83,7 +83,7 @@
 
     <meta name="theme-color" content="#101010">
 
-    <link rel="canonical" href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+    <link rel="canonical" href="https://racks.ph/branches/">
     <link rel="amphtml" href="https://say-no-to-drugs.pages.dev/yy123">
 
    <script type="application/ld+json">
@@ -99,10 +99,10 @@
   },
   "sku": "YY123",
   "mpn": "77GCR-001",
-  "url": "https://www.spanglesteelproducts.com/jahangirpuri/almirah.html",
+  "url": "https://racks.ph/branches/",
   "offers": {
     "@type": "Offer",
-    "url": "https://www.spanglesteelproducts.com/jahangirpuri/almirah.html",
+    "url": "https://racks.ph/branches/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -156,49 +156,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "YY123",
-      "item": "https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"
+      "item": "https://racks.ph/branches/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "YY123 Login",
-      "item": "https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"
+      "item": "https://racks.ph/branches/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "YY123 Daftar",
-      "item": "https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"
+      "item": "https://racks.ph/branches/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "YY123 Link",
-      "item": "https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"
+      "item": "https://racks.ph/branches/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS YY123",
-      "item": "https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"
+      "item": "https://racks.ph/branches/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "YY123 APK",
-      "item": "https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"
+      "item": "https://racks.ph/branches/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "APK GAME ONLINE",
-      "item": "https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"
+      "item": "https://racks.ph/branches/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "YY123",
-      "item": "https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"
+      "item": "https://racks.ph/branches/"
     }
   ]
 }
@@ -209,7 +209,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "YY123",
-  "url": "https://www.spanglesteelproducts.com/jahangirpuri/almirah.html",
+  "url": "https://racks.ph/branches/",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvYgQFbPDmebu4XnIQUczotv4hoqHxM1YoV7CoiiDlMNJTjSNBUkOSAxI3JCX7MYcf5n8HkekTOGNTazJkE_maN5EIwEfJVzs7HahYXD0Ffl7iEXADLSkCLcQITg7RZMh9J0-YZPeCiY7D8wdXci8NPy1oluS3H-WR8DjkClFWsKicFfXGi3W_u9ybuq3v/w400-h134/Logo%20Futuristik%20SLOTGACOR%20Biru%20Neon.png",
   "sameAs": [
     "https://www.facebook.com/YY123",
@@ -239,7 +239,7 @@
     <meta property="og:description"
         content="YY123 Dapatkan referensi aplikasi game mobile dengan fitur digital yang terus berkembang. Pelajari tahapan instalasi, kompatibilitas perangkat, serta berbagai inovasi untuk pengalaman digital yang lebih optimal.">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE4FtM0IcLZimhrHHnsYG_4m_WOFmtS-psWDUtt21Swa2e4rqD8UMnKPOTc2r8Zqx3AkLc1LgAOs11bVsj32egrHsNrkLvdI8LRr679z4V-6RgXaGvWNjcqT_pd4p42t83foQsE4pzZQ0D5lrRnG7NpIw5P9nSw7-blABr2uOaJXU98x8agV5iZOYaZRG0/s1600/20261102_174706958_iOS.png">
-    <meta property="og:url" content="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+    <meta property="og:url" content="https://racks.ph/branches/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -249,7 +249,7 @@
     <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE4FtM0IcLZimhrHHnsYG_4m_WOFmtS-psWDUtt21Swa2e4rqD8UMnKPOTc2r8Zqx3AkLc1LgAOs11bVsj32egrHsNrkLvdI8LRr679z4V-6RgXaGvWNjcqT_pd4p42t83foQsE4pzZQ0D5lrRnG7NpIw5P9nSw7-blABr2uOaJXU98x8agV5iZOYaZRG0/s1600/20261102_174706958_iOS.png">
     <meta property="og:title" content="YY123 : Platform Referensi APK Game Mobile dengan Fitur Digital Inovatif">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+    <meta property="og:url" content="https://racks.ph/branches/">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE4FtM0IcLZimhrHHnsYG_4m_WOFmtS-psWDUtt21Swa2e4rqD8UMnKPOTc2r8Zqx3AkLc1LgAOs11bVsj32egrHsNrkLvdI8LRr679z4V-6RgXaGvWNjcqT_pd4p42t83foQsE4pzZQ0D5lrRnG7NpIw5P9nSw7-blABr2uOaJXU98x8agV5iZOYaZRG0/s1600/20261102_174706958_iOS.png" />
     <meta property="og:description"
         content="YY123 Dapatkan referensi aplikasi game mobile dengan fitur digital yang terus berkembang. Pelajari tahapan instalasi, kompatibilitas perangkat, serta berbagai inovasi untuk pengalaman digital yang lebih optimal.">
@@ -651,7 +651,7 @@
         content="A7JYkbIvWKmS8mWYjXO12SIIsfPdI7twY91Y3LWOV/YbZmN1ZhYv8O+Zs6/IPCfBE99aV9tIC8sWZSCN09vf7gkAAACWeyJvcmlnaW4iOiJodHRwczovL2N0LnBpbnRlcmVzdC5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZzIiLCJleHBpcnkiOjE3NDIzNDIzOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9">
 
 <meta name="robots" content="index, follow">
-<meta property="og:url" content="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+<meta property="og:url" content="https://racks.ph/branches/">
 <style id="YY123-slider-fallback">
 .vip-testimoni-card .swiper-wrapper{display:flex;box-sizing:content-box}
 .vip-testimoni-card .swiper-slide{flex-shrink:0;width:100%;height:auto;box-sizing:border-box}
@@ -766,7 +766,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Envato Market</a>
+                    <a href="https://racks.ph/branches/">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -776,36 +776,36 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"></a>
+                        href="https://racks.ph/branches/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                    <a class="off-canvas-left__site" href="hhttps://racks.ph/branches/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                    </a> <a class="off-canvas-left__site" href="https://racks.ph/branches/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                    </a> <a class="off-canvas-left__site" href="https://racks.ph/branches/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                    </a> <a class="off-canvas-left__site" href="https://racks.ph/branches/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                    </a> <a class="off-canvas-left__site" href="https://racks.ph/branches/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                    </a> <a class="off-canvas-left__site" href="https://racks.ph/branches/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -814,7 +814,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html" accept-charset="UTF-8"
+                    <form id="search" action="https://racks.ph/branches/" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -833,42 +833,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Popular Files</a>
+                                    href="https://racks.ph/branches/">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Featured Files</a>
+                                    href="https://racks.ph/branches/">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Top New Files</a>
+                                    href="https://racks.ph/branches/">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Follow Feed</a>
+                                    href="https://racks.ph/branches/">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Top Authors</a>
+                                    href="https://racks.ph/branches/">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Top New
+                                    href="https://racks.ph/branches/">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Public Collections</a>
+                                    href="https://racks.ph/branches/">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">View All Categories</a>
+                                    href="https://racks.ph/branches/">View All Categories</a>
                             </li>
                         </ul>
 
@@ -876,88 +876,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Show all
+                                    href="https://racks.ph/branches/">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Popular Items</a>
+                                    href="https://racks.ph/branches/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Blog /
+                                    href="https://racks.ph/branches/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">BuddyPress</a>
+                                    href="https://racks.ph/branches/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Corporate</a>
+                                    href="https://racks.ph/branches/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Creative</a>
+                                    href="https://racks.ph/branches/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Directory &amp; Listings</a>
+                                    href="https://racks.ph/branches/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">eCommerce</a>
+                                    href="https://racks.ph/branches/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Education</a>
+                                    href="https://racks.ph/branches/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Elementor</a>
+                                    href="https://racks.ph/branches/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Entertainment</a>
+                                    href="https://racks.ph/branches/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Mobile</a>
+                                    href="https://racks.ph/branches/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Nonprofit</a>
+                                    href="https://racks.ph/branches/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Real
+                                    href="https://racks.ph/branches/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Retail</a>
+                                    href="https://racks.ph/branches/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Technology</a>
+                                    href="https://racks.ph/branches/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Wedding</a>
+                                    href="https://racks.ph/branches/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Miscellaneous</a>
+                                    href="https://racks.ph/branches/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">WordPress Plugins</a>
+                                    href="https://racks.ph/branches/">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -965,21 +965,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Template Kits</a>
+                                    href="https://racks.ph/branches/">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Plugins</a>
+                                    href="https://racks.ph/branches/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Themes</a>
+                                    href="https://racks.ph/branches/">Themes</a>
                             </li>
                         </ul>
 
@@ -987,72 +987,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Show all
+                                    href="https://racks.ph/branches/">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Popular Items</a>
+                                    href="https://racks.ph/branches/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Admin Templates</a>
+                                    href="https://racks.ph/branches/">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Corporate</a>
+                                    href="https://racks.ph/branches/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Creative</a>
+                                    href="https://racks.ph/branches/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Entertainment</a>
+                                    href="https://racks.ph/branches/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Mobile</a>
+                                    href="https://racks.ph/branches/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Nonprofit</a>
+                                    href="https://racks.ph/branches/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Personal</a>
+                                    href="https://racks.ph/branches/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Retail</a>
+                                    href="https://racks.ph/branches/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Specialty Pages</a>
+                                    href="https://racks.ph/branches/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Technology</a>
+                                    href="https://racks.ph/branches/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Wedding</a>
+                                    href="https://racks.ph/branches/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Miscellaneous</a>
+                                    href="https://racks.ph/branches/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1060,42 +1060,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Show all
+                                    href="https://racks.ph/branches/">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Popular Items</a>
+                                    href="https://racks.ph/branches/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Fashion</a>
+                                    href="https://racks.ph/branches/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Shopping</a>
+                                    href="https://racks.ph/branches/">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Health &amp; Beauty</a>
+                                    href="https://racks.ph/branches/">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Technology</a>
+                                    href="https://racks.ph/branches/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Entertainment</a>
+                                    href="https://racks.ph/branches/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Miscellaneous</a>
+                                    href="https://racks.ph/branches/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1103,91 +1103,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Show all
+                                    href="https://racks.ph/branches/">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Popular Items</a>
+                                    href="https://racks.ph/branches/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Email Templates</a>
+                                    href="https://racks.ph/branches/">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Landing Pages</a>
+                                    href="https://racks.ph/branches/">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Unbounce Landing Pages</a>
+                                    href="https://racks.ph/branches/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Show all CMS</a>
+                                    href="https://racks.ph/branches/">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Popular Items</a>
+                                    href="https://racks.ph/branches/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Concrete5</a>
+                                    href="https://racks.ph/branches/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Drupal</a>
+                                    href="https://racks.ph/branches/">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">HubSpot CMS Hub</a>
+                                    href="https://racks.ph/branches/">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Joomla</a>
+                                    href="https://racks.ph/branches/">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">MODX
+                                    href="https://racks.ph/branches/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Moodle</a>
+                                    href="https://racks.ph/branches/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Webflow</a>
+                                    href="https://racks.ph/branches/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Weebly</a>
+                                    href="https://racks.ph/branches/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Miscellaneous</a>
+                                    href="https://racks.ph/branches/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1195,71 +1195,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Show all
+                                    href="https://racks.ph/branches/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Popular Items</a>
+                                    href="https://racks.ph/branches/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">WooCommerce</a>
+                                    href="https://racks.ph/branches/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">BigCommerce</a>
+                                    href="https://racks.ph/branches/">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Drupal Commerce</a>
+                                    href="https://racks.ph/branches/">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Easy Digital Downloads</a>
+                                    href="https://racks.ph/branches/">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Ecwid</a>
+                                    href="https://racks.ph/branches/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Magento</a>
+                                    href="https://racks.ph/branches/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">OpenCart</a>
+                                    href="https://racks.ph/branches/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">PrestaShop</a>
+                                    href="https://racks.ph/branches/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Shopify</a>
+                                    href="https://racks.ph/branches/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Ubercart</a>
+                                    href="https://racks.ph/branches/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">VirtueMart</a>
+                                    href="https://racks.ph/branches/">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Zen
+                                    href="https://racks.ph/branches/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Miscellaneous</a>
+                                    href="https://racks.ph/branches/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1267,30 +1267,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Popular Items</a>
+                                    href="https://racks.ph/branches/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Figma</a>
+                                    href="https://racks.ph/branches/">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Adobe
+                                    href="https://racks.ph/branches/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Photoshop</a>
+                                    href="https://racks.ph/branches/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Sketch</a>
+                                    href="https://racks.ph/branches/">Sketch</a>
                             </li>
                         </ul>
 
@@ -1298,56 +1298,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                            href="https://racks.ph/branches/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Blogging</a>
+                                    href="https://racks.ph/branches/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Courses</a>
+                                    href="https://racks.ph/branches/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Facebook Templates</a>
+                                    href="https://racks.ph/branches/">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Free Elementor Templates</a>
+                                    href="https://racks.ph/branches/">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Free
+                                    href="https://racks.ph/branches/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Forums</a>
+                                    href="https://racks.ph/branches/">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Ghost
+                                    href="https://racks.ph/branches/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Tumblr</a>
+                                    href="https://racks.ph/branches/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Unlimited
+                                    href="https://racks.ph/branches/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1358,7 +1358,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Unlimited
+                            href="https://racks.ph/branches/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1370,7 +1370,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                <a class="off-canvas-right__link--cart" href="https://racks.ph/branches/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1397,7 +1397,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                    <a class="btn btn--square" href="https://racks.ph/branches/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1417,7 +1417,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                        href="https://racks.ph/branches/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1425,14 +1425,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                        href="https://racks.ph/branches/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                    <a href="https://racks.ph/branches/">
                                         <img alt="Logo Baru"
                                             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvYgQFbPDmebu4XnIQUczotv4hoqHxM1YoV7CoiiDlMNJTjSNBUkOSAxI3JCX7MYcf5n8HkekTOGNTazJkE_maN5EIwEfJVzs7HahYXD0Ffl7iEXADLSkCLcQITg7RZMh9J0-YZPeCiY7D8wdXci8NPy1oluS3H-WR8DjkClFWsKicFfXGi3W_u9ybuq3v/w400-h134/Logo%20Futuristik%20SLOTGACOR%20Biru%20Neon.png"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1449,7 +1449,7 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                    <a href="https://racks.ph/branches/">
                                         <img height="50" alt="Envato Market" class="global-header__logo"
                                             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvYgQFbPDmebu4XnIQUczotv4hoqHxM1YoV7CoiiDlMNJTjSNBUkOSAxI3JCX7MYcf5n8HkekTOGNTazJkE_maN5EIwEfJVzs7HahYXD0Ffl7iEXADLSkCLcQITg7RZMh9J0-YZPeCiY7D8wdXci8NPy1oluS3H-WR8DjkClFWsKicFfXGi3W_u9ybuq3v/w400-h134/Logo%20Futuristik%20SLOTGACOR%20Biru%20Neon.png">
                                     </a>
@@ -1457,7 +1457,7 @@
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                                    href="https://racks.ph/branches/">
                                                     <span class="global-header-menu__link-text">
                                                         YY123
                                                     </span>
@@ -1465,7 +1465,7 @@
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                                    href="https://racks.ph/branches/">
                                                     <span class="global-header-menu__link-text">
                                                         YY123 APK
                                                     </span>
@@ -1476,7 +1476,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                                    href="https://racks.ph/branches/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1494,7 +1494,7 @@
                                                 </a>
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                                    href="https://racks.ph/branches/">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon global-header-menu__icon-cart"
@@ -1516,7 +1516,7 @@
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                                    href="https://racks.ph/branches/">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
                                                         Sign In
                                                     </span>
@@ -1535,23 +1535,23 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">YY123</a>
+                                                href="https://racks.ph/branches/">YY123</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">YY123 APK</a>
+                                                href="https://racks.ph/branches/">YY123 APK</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">SITUS YY123</a>
+                                                href="https://racks.ph/branches/">SITUS YY123</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">YY123</a>
+                                                href="https://racks.ph/branches/">YY123</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">APK GAME ONLINE</a>
+                                                href="https://racks.ph/branches/">APK GAME ONLINE</a>
                                         </div>
                                         <div class="header-site-titles__site elements-nav__container"
                                             bis_skin_checked="1">
@@ -1628,7 +1628,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                                href="https://racks.ph/branches/">
 
                                                 YY123
 
@@ -1637,7 +1637,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                                href="https://racks.ph/branches/">
 
                                                 YY123 Login
 
@@ -1646,7 +1646,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                                href="https://racks.ph/branches/">
 
                                                 SITUS YY123
 
@@ -1654,7 +1654,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                                href="https://racks.ph/branches/">
 
                                                 YY123
 
@@ -1664,7 +1664,7 @@
                                         </li></ul>
                                         <div class="header-categories__search" bis_skin_checked="1">
                                             <form id="search" data-view="searchField"
-                                                action="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"
+                                                action="https://racks.ph/branches/"
                                                 accept-charset="UTF-8" method="get">
                                                 <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                     <div class="search-field__input" bis_skin_checked="1">
@@ -1699,20 +1699,20 @@
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">YY123</a>
+                                    href="https://racks.ph/branches/">YY123</a>
 
 
-                                <a href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"
+                                <a href="https://racks.ph/branches/"
                                     class="js-breadcrumb-category">YY123 Login</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">YY123 APK</a>
+                                    href="https://racks.ph/branches/">YY123 APK</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">SITUS YY123</a>
+                                    href="https://racks.ph/branches/">SITUS YY123</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">YY123</a>
+                                    href="https://racks.ph/branches/">YY123</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1728,7 +1728,7 @@
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                            href="https://racks.ph/branches/">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1743,7 +1743,7 @@
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">YY123</a>
+                                            href="https://racks.ph/branches/">YY123</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1845,10 +1845,10 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Item Details</a>
+                                            href="https://racks.ph/branches/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"><span>Reviews</span><span>
+                                            href="https://racks.ph/branches/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1868,10 +1868,10 @@
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">888</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"><span>Comments</span><span
+                                            href="https://racks.ph/branches/"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">9,999</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Support</a>
+                                            href="https://racks.ph/branches/">Support</a>
                                     </li>
                                 </ul>
 
@@ -1887,12 +1887,12 @@
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"><span
+                                            href="https://racks.ph/branches/"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"><span
+                                            href="https://racks.ph/branches/"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -1923,7 +1923,7 @@
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"><span
+                                                        href="https://racks.ph/branches/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -1932,7 +1932,7 @@
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                                        href="https://racks.ph/branches/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2039,7 +2039,7 @@
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">
+                                                    href="https://racks.ph/branches/">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2082,7 +2082,7 @@
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;YY123 : Platform Referensi APK Game Mobile dengan Fitur Digital Inovatif&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html"
+                                                    action="https://racks.ph/branches/"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2143,7 +2143,7 @@
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.htmllicenses/standard">View
+                                                                                        href="https://racks.ph/branches/licenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
@@ -2262,7 +2262,7 @@
                                 <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1">
                                         All Rights Reserved YY123
                                         <br>
-                                        <a href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">YY123</a>
+                                        <a href="https://racks.ph/branches/">YY123</a>
                                 </div>
                                   </style>    
                             <!-- Section 2 -->
@@ -2658,11 +2658,11 @@ YY123 APK memudahkan saya menemukan Referensi Instalasi Game Mobile sekaligus me
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.htmlhc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+                                                            href="https://racks.ph/branches/hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.htmllicenses">Licenses</a>
+                                                            href="https://racks.ph/branches/licenses">Licenses</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2690,7 +2690,7 @@ YY123 APK memudahkan saya menemukan Referensi Instalasi Game Mobile sekaligus me
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Help Center</a>
+                                                            href="https://racks.ph/branches/">Help Center</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2713,7 +2713,7 @@ YY123 APK memudahkan saya menemukan Referensi Instalasi Game Mobile sekaligus me
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">Forums</a>
+                                                            href="https://racks.ph/branches/">Forums</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2913,7 +2913,7 @@ YY123 APK memudahkan saya menemukan Referensi Instalasi Game Mobile sekaligus me
         <div class="flyout__link" bis_skin_checked="1">
             <p class="t-body -size-m h-m0">
                 <a class="t-link -decoration-reversed" target="_blank"
-                    href="https://www.spanglesteelproducts.com/jahangirpuri/almirah.html">View license details</a>
+                    href="https://racks.ph/branches/">View license details</a>
             </p>
         </div>
     </div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe
